@@ -1,4 +1,4 @@
-package omnia:blobstore@0.2.0-draft;
+package wasi:blobstore@0.2.0-draft;
 
 world imports {
 	import blobstore;
